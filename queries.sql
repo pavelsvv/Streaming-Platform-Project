@@ -25,7 +25,7 @@ GROUP BY artist_name
 ORDER BY nr_piese asc;
 
 
---4--Releases without songs
+--4--Releases with a certain number of songs
 SELECT release_name, release_type, release_date, COUNT(track_name) 
 FROM RELEASES left JOIN RELEASES_TRACKS
 ON RELEASES.id_release = RELEASES_TRACKS.id_release
