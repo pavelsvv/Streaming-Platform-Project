@@ -1,7 +1,7 @@
 # Music Streaming Platform SQL Project
 
 ## Description
-Database project simulating a music streaming platform.
+Database project simulating a music streaming platform. The goal of it is to extract insights using SQL queries based on different areas of interest such as artists, genres, tracks, and streaming data.
 
 ## Queries
 - Total streams per artist
