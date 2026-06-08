@@ -16,7 +16,7 @@ Database project simulating a music streaming platform.
 - PostgreSQL
 
 ## Database
-![ERD](erd.png)
+![ERD](ERD.png)
 
 ## Notes
 Project created for learning purposes.
