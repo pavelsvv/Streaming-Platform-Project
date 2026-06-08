@@ -7,7 +7,7 @@ Database project simulating a music streaming platform.
 - Total streams per artist
 - Top 10 artists by streams
 - Number of songs per artist
-- Releases without songs
+- Releases with a certain number of songs
 - Songs above average streams (by country)
 - Songs with more than one genre
 - Average streams by genre
